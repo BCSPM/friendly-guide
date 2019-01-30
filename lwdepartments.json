@@ -1,6 +1,4 @@
-
-
-
+[
 {"name": "55 Naperville IL, 
  "abbreviation": "55 "},
 {"name": "American Falls, 
@@ -138,5 +136,5 @@
 {"name": "Twin Falls, 
  "abbreviation": "Twi"},
 {"name": "Warden, 
- "abbreviation": "WarMul"},
-
+ "abbreviation": "WarMul"}
+ ]
