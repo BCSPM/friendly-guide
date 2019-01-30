@@ -1,54 +1,71 @@
 [
-    {
-        "name": "Alberta",
-        "abbreviation": "AB"
-    },
-    {
-        "name": "British Columbia",
-        "abbreviation": "BC"
-    },
-    {
-        "name": "Manitoba",
-        "abbreviation": "MB"
-    },
-    {
-        "name": "New Brunswick",
-        "abbreviation": "NB"
-    },
-    {
-        "name": "Newfoundland and Labrador",
-        "abbreviation": "NL"
-    },
-    {
-        "name": "Northwest Territories",
-        "abbreviation": "NT"
-    },
-    {
-        "name": "Nova Scotia",
-        "abbreviation": "NS"
-    },
-    {
-        "name": "Nunavut",
-        "abbreviation": "NU"
-    },
-    {
-        "name": "Ontario",
-        "abbreviation": "ON"
-    },
-    {
-        "name": "Prince Edward Island",
-        "abbreviation": "PE"
-    },
-    {
-        "name": "Quebec",
-        "abbreviation": "QC"
-    },
-    {
-        "name": "Saskatchewan",
-        "abbreviation": "SK"
-    },
-    {
-        "name": "Yukon Territory",
-        "abbreviation": "YT"
-    }
+{"name": "55 Naperville IL"},
+{"name": "American Falls"},
+{"name": "Bentonville"},
+{"name": "Boardman East"},
+{"name": "Boardman Pack Center"},
+{"name": "Boardman West"},
+{"name": "Boise"},
+{"name": "Columbia Basin Blends (CBB)"},
+{"name": "Connell"},
+{"name": "Delhi"},
+{"name": "Eagle Headquarters"},
+{"name": "Hermiston"},
+{"name": "Kennewick Engineering Office"},
+{"name": "Kennewick Office"},
+{"name": "Kruiningen, Netherlands"},
+{"name": "Morrow Cold Storage (MCS)"},
+{"name": "Park Rapids"},
+{"name": "Pasco"},
+{"name": "Paterson Dairy"},
+{"name": "Paterson Farm"},
+{"name": "Paterson Frozen"},
+{"name": "Quincy"},
+{"name": "Remote Alabama"},
+{"name": "Remote Arizona"},
+{"name": "Remote Arkansas"},
+{"name": "Remote California"},
+{"name": "Remote Colorado"},
+{"name": "Remote Connecticut"},
+{"name": "Remote Delaware"},
+{"name": "Remote Florida"},
+{"name": "Remote Georgia"},
+{"name": "Remote Hawaii"},
+{"name": "Remote Idaho"},
+{"name": "Remote Illinois"},
+{"name": "Remote Indiana"},
+{"name": "Remote Iowa"},
+{"name": "Remote Kansas"},
+{"name": "Remote Kentucky"},
+{"name": "Remote Maine"},
+{"name": "Remote Maryland"},
+{"name": "Remote Massachusetts"},
+{"name": "Remote Michigan"},
+{"name": "Remote Minnesota"},
+{"name": "Remote Missouri"},
+{"name": "Remote Nebraska"},
+{"name": "Remote Nevada"},
+{"name": "Remote New Jersey"},
+{"name": "Remote New Mexico"},
+{"name": "Remote New York"},
+{"name": "Remote North Carolina"},
+{"name": "Remote North Dakota"},
+{"name": "Remote Ohio"},
+{"name": "Remote Oklahoma"},
+{"name": "Remote Oregon"},
+{"name": "Remote Pennsylvania"},
+{"name": "Remote Puerto Rico"},
+{"name": "Remote South Carolina"},
+{"name": "Remote Tennessee"},
+{"name": "Remote Texas"},
+{"name": "Remote Utah"},
+{"name": "Remote Virginia"},
+{"name": "Remote Washington"},
+{"name": "Remote Wisconsin"},
+{"name": "Richland"},
+{"name": "Richland Technical Center"},
+{"name": "Singapore"},
+{"name": "Statewide Multi Use MA"},
+{"name": "Twin Falls"},
+{"name": "Warden"},
 ]
